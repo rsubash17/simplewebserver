@@ -78,10 +78,10 @@ print("My Webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-```
-![image](https://github.com/rsubash17/simplewebserver/assets/147139828/2b713cbe-4705-4c1b-87bd-421c830f5fe5)
-![image](https://github.com/rsubash17/simplewebserver/assets/147139828/cd4bb222-cdcd-4af9-b80c-b86a80a6adcc)
-```
+
+![web1](https://github.com/rsubash17/simplewebserver/assets/147139828/e4a310d2-309a-464b-8c53-e49ef72fa57c)
+![image](https://github.com/rsubash17/simplewebserver/assets/147139828/bd2ba1ac-c030-42ac-a641-15c4142bf2fb)
+
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
